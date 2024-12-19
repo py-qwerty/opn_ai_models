@@ -1,0 +1,4 @@
+.env
+.venv/
+tf_env/
+*.csv
